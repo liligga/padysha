@@ -1,0 +1,800 @@
+Uri: https://capstroy.kg/
+File Name: C:\Downloaded Web Sites\capstroy.kg\index.htm
+Content Type: text/html
+
+Uri: https://capstroy.kg/img/Menu_iop.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\Menu_iop.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/2xT01qK2Q0ZdM85mVMNL.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\2xT01qK2Q0ZdM85mVMNL.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/aMIY5rnMhFxaorRojOGX.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\aMIY5rnMhFxaorRojOGX.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/u0cDQRtBryB5uIFJ2vWN.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\u0cDQRtBryB5uIFJ2vWN.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/main-slider/October2022/Eu74Pz9mjLPd3SUNskXu.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\October2022\Eu74Pz9mjLPd3SUNskXu.jpg
+Content Type: image/jpeg
+
+kg/fonts/Forum-Regular.woff2
+File Name: C:\Downloaded Web Sites\capstroy.kg\fonts\Forum-Regular.woff2
+Content Type: text/plain
+
+Uri: https://capstroy.kg/fonts/Haigrast.woff2
+File Name: C:\Downloaded Web Sites\capstroy.kg\fonts\Haigrast.woff2
+Content Type: text/plain
+
+Uri: https://capstroy.kg/fonts/SangBleuEmpireTrial-Regular.woff2
+File Name: C:\Downloaded Web Sites\capstroy.kg\fonts\SangBleuEmpireTrial-Regular.woff2
+Content Type: text/plain
+
+Uri: https://capstroy.kg/fonts/Ubuntu-Light.ttf
+File Name: C:\Downloaded Web Sites\capstroy.kg\fonts\Ubuntu-Light.ttf
+Content Type: text/plain
+
+Uri: https://capstroy.kg/img/0081.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\0081.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/1-slide.webp
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\1-slide.webp
+Content Type: audio/unknown
+
+Uri: https://capstroy.kg/img/764.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\764.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/about_bg_1.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\about_bg_1.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/bg_about.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\bg_about.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/bg_line.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\bg_line.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/ceo.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\ceo.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/cert.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\cert.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/contacts/golden_clock.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\contacts\golden_clock.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/img/contacts/golden_location.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\contacts\golden_location.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/img/contacts/golden_phone.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\contacts\golden_phone.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/img/direction.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\direction.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/left-arr.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\left-arr.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/img/left.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\left.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/img/Menu_iop.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\Menu_iop.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/messageBg.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\messageBg.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/narrow_arrow.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\narrow_arrow.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/1.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\1.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/10.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\10.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/11.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\11.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/12.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\12.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/13.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\13.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/14.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\14.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/15.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\15.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/16.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\16.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/2.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\2.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/3.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\3.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/4.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\4.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/5.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\5.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/6.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\6.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/7.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\7.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/8.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\8.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/partners/9.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\partners\9.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/img/subtract.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\subtract.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/img/whatsUpIcon.svg
+File Name: C:\Downloaded Web Sites\capstroy.kg\img\whatsUpIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://capstroy.kg/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://capstroy.kg/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://capstroy.kg/js/locomotive-scroll.min.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\js\locomotive-scroll.min.js
+Content Type: text/javascript
+
+Uri: https://capstroy.kg/js/main.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\js\main.js
+Content Type: text/javascript
+
+Uri: https://capstroy.kg/js/nouislider.min.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\js\nouislider.min.js
+Content Type: text/javascript
+
+Uri: https://capstroy.kg/js/splide.min.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\js\splide.min.js
+Content Type: text/javascript
+
+Uri: https://capstroy.kg/news/1
+File Name: C:\Downloaded Web Sites\capstroy.kg\news\1.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/news/2
+File Name: C:\Downloaded Web Sites\capstroy.kg\news\2.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/news/3
+File Name: C:\Downloaded Web Sites\capstroy.kg\news\3.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/1
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\1.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/2
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\2.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/3
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\3.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/5
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\5.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/6
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\6.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/7
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\7.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/8
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\8.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/project/9
+File Name: C:\Downloaded Web Sites\capstroy.kg\project\9.html
+Content Type: text/html
+
+Uri: https://capstroy.kg/storage/apartment/November2022/2DuYbO8iXhS7JlAZIUjh.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\apartment\November2022\2DuYbO8iXhS7JlAZIUjh.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/apartment/November2022/D6W1ZiGT7CLhEcS4HPFM.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\apartment\November2022\D6W1ZiGT7CLhEcS4HPFM.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/apartment/November2022/OQblxEEtOGQ6f2775af4.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\apartment\November2022\OQblxEEtOGQ6f2775af4.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/apartment/November2022/qGUbVh3rTgaduMJDfqhf.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\apartment\November2022\qGUbVh3rTgaduMJDfqhf.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/main-page/July2022/8vUZ2kbx1XZFdz5Ghq33.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-page\July2022\8vUZ2kbx1XZFdz5Ghq33.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-page/July2022/ncUYZMg3AM1p74LBqf4v.mp4
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-page\July2022\ncUYZMg3AM1p74LBqf4v.mp4
+Content Type: video/mp4
+
+Uri: https://capstroy.kg/storage/main-page/July2022/qJuBxhZiCjHejoN6vPLU.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-page\July2022\qJuBxhZiCjHejoN6vPLU.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-page/July2022/UC2dbiqtIlUXQD94Kup4.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-page\July2022\UC2dbiqtIlUXQD94Kup4.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-page/July2022/UYoYSEGFWWCOd3rOvW80.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-page\July2022\UYoYSEGFWWCOd3rOvW80.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-page/October2022/Mop7is6ib3oguuYKtnyI.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-page\October2022\Mop7is6ib3oguuYKtnyI.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/2xT01qK2Q0ZdM85mVMNL.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\2xT01qK2Q0ZdM85mVMNL.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/aMIY5rnMhFxaorRojOGX.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\aMIY5rnMhFxaorRojOGX.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/EC5yRqBUfSq8oBYarFXn.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\EC5yRqBUfSq8oBYarFXn.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/IHua4SJjOtEGR9h6hiGN.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\IHua4SJjOtEGR9h6hiGN.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/OGG0p4dctqVHBjZJiTbZ.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\OGG0p4dctqVHBjZJiTbZ.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/u0cDQRtBryB5uIFJ2vWN.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\u0cDQRtBryB5uIFJ2vWN.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/main-slider/July2022/yJ8R3HQDge8fDi4FRrsv.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\July2022\yJ8R3HQDge8fDi4FRrsv.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/main-slider/October2022/Eu74Pz9mjLPd3SUNskXu.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\main-slider\October2022\Eu74Pz9mjLPd3SUNskXu.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/news/August2022/kTWF6qjOPrgeE9J4LHSc-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\news\August2022\kTWF6qjOPrgeE9J4LHSc-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/news/August2022/saZTTnwF9K47KiPi45Lu-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\news\August2022\saZTTnwF9K47KiPi45Lu-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/news/November2022/mLv1ezWBedt2vMyynlYn-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\news\November2022\mLv1ezWBedt2vMyynlYn-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/August2022/0ZoTxEtkdoQlEQIU6lwY.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\August2022\0ZoTxEtkdoQlEQIU6lwY.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/August2022/uYnZpmGLVYxzhDwAVGZB.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\August2022\uYnZpmGLVYxzhDwAVGZB.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/August2022/WLDrdqIdpqDbJHvt1aXc-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\August2022\WLDrdqIdpqDbJHvt1aXc-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/August2022/WZNsCck4EwiWBmTOqTsl.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\August2022\WZNsCck4EwiWBmTOqTsl.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/0r3VMBw8k2VxjjddxDEn-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\0r3VMBw8k2VxjjddxDEn-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/1OI7QkP7Ddjnzx8gzKYW-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\1OI7QkP7Ddjnzx8gzKYW-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/26lYFIXjb2gTEIYLA2gw.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\26lYFIXjb2gTEIYLA2gw.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/July2022/4jYFHPFFsX4z0LubLY8X.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\4jYFHPFFsX4z0LubLY8X.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/8XMiYiGIG54dpC7yxoeC.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\8XMiYiGIG54dpC7yxoeC.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/July2022/BDaMMOEquQyMj4A7sG8n.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\BDaMMOEquQyMj4A7sG8n.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/bT4GKRWbF8ICCgWNYCaY-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\bT4GKRWbF8ICCgWNYCaY-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/cTRsVStQnblhnD45RbYd.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\cTRsVStQnblhnD45RbYd.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/dad2A9PoTN3PxTpHovRi.webp
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\dad2A9PoTN3PxTpHovRi.webp
+Content Type: audio/unknown
+
+Uri: https://capstroy.kg/storage/projects/July2022/eyLQCncyAjQQBXRMYX58.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\eyLQCncyAjQQBXRMYX58.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/gwd0ANEEHmqqZoaT3XE0.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\gwd0ANEEHmqqZoaT3XE0.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/HhszxOOrpxxu7DQazhtp.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\HhszxOOrpxxu7DQazhtp.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/ITPaQNIRvdvzEEQOA74B.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\ITPaQNIRvdvzEEQOA74B.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/Je0Yti45PmEaOlAeWSYl.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\Je0Yti45PmEaOlAeWSYl.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/n6pLPGWpcOBx1b9LFf9n.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\n6pLPGWpcOBx1b9LFf9n.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/July2022/omWUSxn6efbK9uedyCdC.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\omWUSxn6efbK9uedyCdC.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/pH80eWJhpYEQ8PSZy65X.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\pH80eWJhpYEQ8PSZy65X.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/RqT11jc1lZE3pVjOTEpe.webp
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\RqT11jc1lZE3pVjOTEpe.webp
+Content Type: audio/unknown
+
+Uri: https://capstroy.kg/storage/projects/July2022/RuyVGumMExTMw1auHE8P.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\RuyVGumMExTMw1auHE8P.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/TCge2evjhJIlp11z4UDb.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\TCge2evjhJIlp11z4UDb.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/tyxd1kPM8OYmTtbfcgI8.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\tyxd1kPM8OYmTtbfcgI8.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/TZinvMcukllyjjDRxHfV-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\TZinvMcukllyjjDRxHfV-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/UtCMKU89Cve14Ro03A12.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\UtCMKU89Cve14Ro03A12.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/July2022/XhiX8DsSoRRgXZZO1jzh.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\XhiX8DsSoRRgXZZO1jzh.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/z2iYHCbCxJKAVUwIbQvj.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\z2iYHCbCxJKAVUwIbQvj.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/z871udfxkH0ibkGfRNIW.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\z871udfxkH0ibkGfRNIW.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/July2022/z9rnNcF8kwAa7awBGoQ0.webp
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\July2022\z9rnNcF8kwAa7awBGoQ0.webp
+Content Type: audio/unknown
+
+Uri: https://capstroy.kg/storage/projects/November2022/0aHwkYL9qo4fQsHFiqV4.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\0aHwkYL9qo4fQsHFiqV4.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/0BAxySRlqZRAnoxVYwlB.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\0BAxySRlqZRAnoxVYwlB.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/1gTWtQFvF6w2IATz5zNj.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\1gTWtQFvF6w2IATz5zNj.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/cjica6Gn1a8eywFV13ni.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\cjica6Gn1a8eywFV13ni.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/dzFZVF9H7ScEfBlbPgoM.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\dzFZVF9H7ScEfBlbPgoM.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/H6Pa5xvKckXnXcPbysW2.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\H6Pa5xvKckXnXcPbysW2.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/m7IXgxAPkq0BznHfCfbf.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\m7IXgxAPkq0BznHfCfbf.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/pa1Ho1wVaZyswaXxh6Ee.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\pa1Ho1wVaZyswaXxh6Ee.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/tyVdJi3Yvx9HGawGbCXQ.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\tyVdJi3Yvx9HGawGbCXQ.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/yGiTQ4Nk9i0Ow6Kqhihb.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\yGiTQ4Nk9i0Ow6Kqhihb.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/November2022/YoVP1KmgMKVzjJWIWKDS.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\November2022\YoVP1KmgMKVzjJWIWKDS.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/0IIxEx6Fd2qbnd3uGObw.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\0IIxEx6Fd2qbnd3uGObw.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/33UkA8zUpzZpUtMZszi0.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\33UkA8zUpzZpUtMZszi0.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/3GP10TPszDr1LeXKy1D7.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\3GP10TPszDr1LeXKy1D7.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/3LKIomS11L4My9y8nh3v.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\3LKIomS11L4My9y8nh3v.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/4vXkhVthRYfwFw1lWctx.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\4vXkhVthRYfwFw1lWctx.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/5EZ1SXkc8ydmcypJjWJU.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\5EZ1SXkc8ydmcypJjWJU.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/5vK0XIC1gYKoO1LVUjhI.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\5vK0XIC1gYKoO1LVUjhI.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/5x13dxPY68E7MFh5GZCC.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\5x13dxPY68E7MFh5GZCC.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/6lIRIkrbm4bIdtmx8zIy.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\6lIRIkrbm4bIdtmx8zIy.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/7Wr0V0LdamTegmLXwokY.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\7Wr0V0LdamTegmLXwokY.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/8vZB7Ttbx7mEcOBIBaNU.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\8vZB7Ttbx7mEcOBIBaNU.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/9gStoVgwKkIrIycGRIWW.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\9gStoVgwKkIrIycGRIWW.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/9IdqtUg4NpbNJ8jdP1Qv.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\9IdqtUg4NpbNJ8jdP1Qv.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/abMSvoaFeYsAdEXYLYrf.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\abMSvoaFeYsAdEXYLYrf.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/AselTLbmlHzNrXP6TwkX.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\AselTLbmlHzNrXP6TwkX.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/Be7xfJxhIWf41zIFFPJA.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\Be7xfJxhIWf41zIFFPJA.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/October2022/cCM84EGuusM9eor0i092.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\cCM84EGuusM9eor0i092.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/CUDRmW6zRfsNAjpDCnDG.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\CUDRmW6zRfsNAjpDCnDG.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/E5nA5LC3kFqhGrv5zNSL.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\E5nA5LC3kFqhGrv5zNSL.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/E8WrJpumiKXZS90qT4ZD.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\E8WrJpumiKXZS90qT4ZD.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/eLtMej7xLGC55bNEGszj.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\eLtMej7xLGC55bNEGszj.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/fIUXizcaCKbVqY2GWl2l.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\fIUXizcaCKbVqY2GWl2l.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/FPLi7Z58kZcrptbhyuDH.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\FPLi7Z58kZcrptbhyuDH.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/g5RL3bkE2UwPaDXRGLpI-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\g5RL3bkE2UwPaDXRGLpI-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/gdms4lrLD4cK5PY0C6ec.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\gdms4lrLD4cK5PY0C6ec.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/GpRwPURwfMlGsb0PkSYO.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\GpRwPURwfMlGsb0PkSYO.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/Gt0f9zvhWVL4Nen3zIgo.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\Gt0f9zvhWVL4Nen3zIgo.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/GwDF3z0S0ZFtQ9ggoC2n.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\GwDF3z0S0ZFtQ9ggoC2n.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/haGVvDyGQ6oRbsus8lmf.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\haGVvDyGQ6oRbsus8lmf.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/HICHkOL7iqiayNSLv48j.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\HICHkOL7iqiayNSLv48j.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/hlxAK4x1wEYnKBQe8ygs.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\hlxAK4x1wEYnKBQe8ygs.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/hnddJGIU5MvOEbWLzh9n.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\hnddJGIU5MvOEbWLzh9n.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/IFJBDFzpaD5M4X8lN9K0.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\IFJBDFzpaD5M4X8lN9K0.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/ixIBBkNpxJC2wcwVvlEU.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\ixIBBkNpxJC2wcwVvlEU.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/October2022/J21Opp4qM5CUdbpHsBRJ.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\J21Opp4qM5CUdbpHsBRJ.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/J4jDd2cj5oM8hZvKjx7q.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\J4jDd2cj5oM8hZvKjx7q.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/jJKKSkHX5Jyd1stRctuV.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\jJKKSkHX5Jyd1stRctuV.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/jqwGd7fRypq44daJm3fU.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\jqwGd7fRypq44daJm3fU.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/k6afy3XnbdJxTt0bhjab.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\k6afy3XnbdJxTt0bhjab.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/KqXoai9Cm6TrxnBOeVQI.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\KqXoai9Cm6TrxnBOeVQI.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/ksvpAE7LVnDKkP2gFzd2.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\ksvpAE7LVnDKkP2gFzd2.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/LR0lshNLYX9pIihP009W.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\LR0lshNLYX9pIihP009W.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/lX4vni13GxRsMkGS1L6o.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\lX4vni13GxRsMkGS1L6o.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/mrGBc4q9w3M8sgtEfKvD.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\mrGBc4q9w3M8sgtEfKvD.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/msCt7ioc0wfrzUUtWqrX.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\msCt7ioc0wfrzUUtWqrX.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/N2rsXPldtWyElpXteoPD-medium.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\N2rsXPldtWyElpXteoPD-medium.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/n9lXs8cJmho0Cx75KZeF.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\n9lXs8cJmho0Cx75KZeF.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/OiI7mvgxKSEzpNneTcQn.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\OiI7mvgxKSEzpNneTcQn.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/olbbMHLHbdU4RQ5RdsYn.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\olbbMHLHbdU4RQ5RdsYn.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/p5ApQA3DglLItSCObwte.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\p5ApQA3DglLItSCObwte.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/pCOkpCF4kZEveYMZ8zhI.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\pCOkpCF4kZEveYMZ8zhI.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/PpBacMgqgjXgxeDHvCmW.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\PpBacMgqgjXgxeDHvCmW.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/prUb7i945P7BukSbp6Q0.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\prUb7i945P7BukSbp6Q0.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/qH26h6ro8fgoWMMySNHE.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\qH26h6ro8fgoWMMySNHE.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/qmPwsMfpmVf69IN0D8eL-medium.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\qmPwsMfpmVf69IN0D8eL-medium.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/qZmI5d366YkyzfW6wVUF.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\qZmI5d366YkyzfW6wVUF.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/qZqFKE06OVVXgT435Kby.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\qZqFKE06OVVXgT435Kby.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/RBvbIMiQFQdXysTylK5m.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\RBvbIMiQFQdXysTylK5m.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/rwte1hqpOc3sZy8JcdFb.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\rwte1hqpOc3sZy8JcdFb.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/tvKJhVN0CtuqKSs6jKe3.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\tvKJhVN0CtuqKSs6jKe3.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/uekUYIhiajPcHEt4nnq7.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\uekUYIhiajPcHEt4nnq7.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/uSp3gF0FKdIWDOrrRoZx.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\uSp3gF0FKdIWDOrrRoZx.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/uYAsI7yCd6J6LOCR8wIa.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\uYAsI7yCd6J6LOCR8wIa.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/v9Uz2SZxWHNJcKn7pYde.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\v9Uz2SZxWHNJcKn7pYde.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/WDKgLqHyfV3WKyyPxIRj.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\WDKgLqHyfV3WKyyPxIRj.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/WFUkG6MNOTfHimnymd8k.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\WFUkG6MNOTfHimnymd8k.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/xJEH6kxTbXSjVwDtqTuJ.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\xJEH6kxTbXSjVwDtqTuJ.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/Y7vNc6mlkccVPaqBF7w8.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\Y7vNc6mlkccVPaqBF7w8.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/y95X0GOEGrmYl49k55r1.png
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\y95X0GOEGrmYl49k55r1.png
+Content Type: image/png
+
+Uri: https://capstroy.kg/storage/projects/October2022/YEaY47fze9X6OLJUdtSU.jpg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\YEaY47fze9X6OLJUdtSU.jpg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/yjbaA4ptu35smBdojaXM.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\yjbaA4ptu35smBdojaXM.jpeg
+Content Type: image/jpeg
+
+Uri: https://capstroy.kg/storage/projects/October2022/z10234Nrvv0aP5paZRKr.jpeg
+File Name: C:\Downloaded Web Sites\capstroy.kg\storage\projects\October2022\z10234Nrvv0aP5paZRKr.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/axios/0.26.0/axios.min.js
+File Name: C:\Downloaded Web Sites\capstroy.kg\ajax\libs\axios\0.26.0\axios.min.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyCrRflhHxvf2CSwxCor-LVgjf76HTxp8xA&callback=initMap&v=weekly&channel=2
+File Name: C:\Downloaded Web Sites\capstroy.kg\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-61KQB1FMJH
+File Name: C:\Downloaded Web Sites\capstroy.kg\gtag\js
+Content Type: application/javascript
+
